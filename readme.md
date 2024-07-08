@@ -11,7 +11,7 @@ The LendingClub company wants to automate their lending decisions fully and hire
 
 ## Deployed models
 
-- Application classification model with an accuracy of 98% and F1 score of 88 https://loan-application-service-etzmwl27qq-lm.a.run.app/docs
+- Application classification model with an accuracy of 98% and F1 score of 88 [HERE](https://loan-application-service-etzmwl27qq-lm.a.run.app/docs)
 - Grade prediction model with an accuracy of 83% 
 - Subgrade prediction model with an accuracy of 33%
 - Interest rate prediction model with an accuracy of 99%
